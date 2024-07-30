@@ -4,7 +4,7 @@ from scipy.integrate import odeint
 import numpy as np
 from sympy import sin,cos
 
-
+#codigo base
 # VARIABLES
 alfa = 1
 a = 1
