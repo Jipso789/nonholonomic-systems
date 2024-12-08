@@ -7,7 +7,7 @@ from sympy import sin,cos
 #codigo branch 2 ...""·
 #modificacion
 # VARIABLES
-alfa = 12
+alfa = 123
 a = 1
 beta = 1
 c1 = 1 #debe ser mayor a 0
