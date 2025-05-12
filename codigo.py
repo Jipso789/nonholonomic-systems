@@ -4,9 +4,10 @@ from scipy.integrate import odeint
 import numpy as np
 from sympy import sin,cos
 
-#codigo base
+#codigo branch 2 ...""·
+#modificacion
 # VARIABLES
-alfa = 1
+alfa = 123
 a = 1
 beta = 1
 c1 = 1 #debe ser mayor a 0
